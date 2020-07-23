@@ -1,0 +1,2 @@
+[2020-06-11 20:36:03] layer "Phone: (+48) 604 234 091 E-mail: contact@austera.co ": Unsupported extension: co
+[2020-06-11 20:36:03] layer "www.symu.co": Unsupported extension: co
